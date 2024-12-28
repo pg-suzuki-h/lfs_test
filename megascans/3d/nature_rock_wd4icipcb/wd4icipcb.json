@@ -1,0 +1,1991 @@
+{
+  "pack": {
+    "_id": "tundra",
+    "name": "Tundra"
+  },
+  "semanticTags": {
+    "name": "Massive Tundra Rock Formation",
+    "asset_type": "3D asset",
+    "contains": [
+      "rock",
+      "stone",
+      "moss"
+    ],
+    "theme": [
+      "tundra",
+      "nature",
+      "outdoors",
+      "mountains",
+      "cliffs",
+      "hills",
+      "arctic"
+    ],
+    "descriptive": [
+      "weathered",
+      "rough",
+      "mossy",
+      "uneven",
+      "jagged"
+    ],
+    "environment": [
+      "tundra biome"
+    ],
+    "architectural_style": {},
+    "state": [
+      "old"
+    ],
+    "country": "Sweden",
+    "region": "Europe",
+    "color": [
+      "Gray",
+      "Green",
+      "Black",
+      "Brown"
+    ],
+    "3d_mesh": "Open",
+    "locations": {
+      "Europe": {
+        "Sweden": {}
+      }
+    },
+    "maxSize": 26.36,
+    "minSize": 4.67,
+    "subject_matter": "nature",
+    "interior_exterior": [
+      "exterior"
+    ],
+    "industry": [
+      "games",
+      "archviz"
+    ]
+  },
+  "name": "Massive Tundra Rock Formation",
+  "tags": [
+    "gray",
+    "tundra",
+    "nature",
+    "outdoors",
+    "mountains",
+    "cliffs",
+    "hills",
+    "arctic",
+    "rock",
+    "stone",
+    "moss",
+    "embankment",
+    "weathered",
+    "rough",
+    "mossy",
+    "uneven"
+  ],
+  "brushes": [],
+  "previews": {
+    "images": [
+      {
+        "contentLength": 795738,
+        "resolution": "952x400",
+        "uri": "wd4icipcb_Thumb_HighPoly.png",
+        "tags": [
+          "thumb",
+          "highpoly"
+        ]
+      },
+      {
+        "contentLength": 3142784,
+        "resolution": "1904x800",
+        "uri": "wd4icipcb_Thumb_HighPoly_Retina.png",
+        "tags": [
+          "preview",
+          "retina"
+        ]
+      },
+      {
+        "contentLength": 1830,
+        "resolution": "57x24",
+        "uri": "Xqeaj1xRLpqRd5SHVqKSa41+QsO5lZ2OY4h5ZLCkhINzX1VKO5uNX6qdeGdYQ5mKdEY9MIZ4YF5QNn1wVXxwRpuJbbiteZyNcU5CMbysWYJ3PmNVQ3JoOnxzWox+VLmqhLKkT0o7KWVXP0k/MlBEM3xtVXlqT2pcSJeIbl5PO0M4Iol6aGJVSEo9JlJIPXJjTo19YEQ4KpCCaIN1YoFvV4R1WDozGm5fPY1/Voh3UVtPQzwyJYt+c2deVnhsYaWVgVNFKZyNeXlsRHNjRJmJY4d5YFdIM3BkWCgfEbKjfXdpVoF1TKCPWaiYcoFzPjEoFpOFeLirnG9mNsW3p7enitrRviSCpyIAAABWdFJOUwAWeCY//v4H/v7+YSS9M2CQjdd458/oS/CwopzLsu/W7eDU89jO6f/////////////////////////////////////////////////////////////+HNky1AAAA3dJREFUOMuVlOWS3FYUhIc0Iw0t867XkOSCmJlxJA3j5v0fJHJclVSSdVzu/9+5XX363FbrmwaPrHr7POn0puPpdNr6CXWo2Waz2GzU/f29Sk4uOr3epHPW+zHYo9bUYpOxrLXMoiKfxcX6CwfAS7c9GI3+z8L4cpHomN0bWAgFkUeMEbNGUYKPt9e//H4iJp1R+zvg9SFTwIrNNpsQKxUfMATBcE4pD12HSphajOKbTq89+A84eFqwnJCws8UhVhSJr1LtLbG2OFq6W8ecAcBxfrQlv7w+jc7+iT+9UY5wOAkGEUGf06Bi8hQr9EVmD3IP02kwnwcyOh63i9OJuHy+GE3H3/jRgqKtN5ZtBiMZocpPFZuzmCCwslD3PHI97PM25LkwDPch+7ZQ1x8+fPj1ofF6mVlOoeKC92NZk2sJwRjuOIxQIgimuU9mw+HRl/rkzIjF8C05GMvCG277zUJmlkcfdcxoUSwj0dBSEUl8oIi6zjjAZBehSCtO7s7ofLtODqdkmRlVlb60WhcLFjOSYmFmyUCZSYDmQ8TZGkPzHN7ourr0RZkBvmLS3npNHPYCQUD+t25jli1FhgMFqBSkMbiEvFhJlTTXAOeaNKM086I48rUKq+s16RqxQESBf/41nyw2luKycFJeqwCo5oySSja07b6TIq5QSwixUNtz+ZCpdb8PlEyQNPmu1bokrZIWZUMlScuh8eEEuFTaBfESFXlfAoXCIMTJcL4jwvrQBOHEic7Bm2Yt1Jouw8ighVJQHCc5JRyUeF4GhVb0j2lK0xbQAIBzaMAw5ndCHe1jUTr/2vWH272YCJi28AqXbFZrsmhhjGxbyfPtcev007mE5pofBJI0nzO+GNbwpvtnE9q9s8m17lGCqupCJAeijxnBxJZlrvLVNqd52+Y1TpKMYLfbIRExKOj+XcB2r/P4mbbcVe0jRc+MpWnpalm67mroHYdbr6x3kqNp0JZQAAPY/Vfxx2cXk0/3lqXXDciypanOVM8l15tMtWgb6Foga8370D8fvHNwg3Gv4W9ZKjNVc0axewG4bGisVktFTSse5AVAH9vfv/T29Kzz+HxNYkOUYU1gOtdXK1LX3UaGePXDL6bdvbs6f7mJIsbMc5elhIYkZ+q7Xt/ToHvXeXgdbpMwKVekd3/V+ikNxndXD58/ea/nf8X6B8Z9w1whf8s3AAAAAElFTkSuQmCC",
+        "tags": [
+          "thumb",
+          "highpoly",
+          "tiny"
+        ]
+      },
+      {
+        "contentLength": 160641,
+        "resolution": "952x400",
+        "uri": "wd4icipcb_Thumb_HighPoly_thumb.jpg",
+        "tags": [
+          "thumb",
+          "highpoly",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 636934,
+        "resolution": "1904x800",
+        "uri": "wd4icipcb_Thumb_HighPoly_Retina_preview.jpg",
+        "tags": [
+          "preview",
+          "retina",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 636704,
+        "resolution": "1904x800",
+        "uri": "wd4icipcb_Thumb_HighPoly_Retina_thumb_retina.jpg",
+        "tags": [
+          "thumb",
+          "retina",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 490377,
+        "resolution": "1714x720",
+        "uri": "wd4icipcb_Thumb_HighPoly_Retina_sp.jpg",
+        "tags": [
+          "jpeg",
+          "sidepanel"
+        ]
+      }
+    ],
+    "relativeSize": "2x1"
+  },
+  "environment": {
+    "biome": "tundra biome",
+    "region": "Europe"
+  },
+  "json": {
+    "contentLength": 39655,
+    "uri": "wd4icipcb.json"
+  },
+  "points": 4,
+  "meta": [
+    {
+      "key": "assembly",
+      "name": "Assembly",
+      "value": "true"
+    },
+    {
+      "key": "small3dasset",
+      "name": "Small3dAsset",
+      "value": "false"
+    },
+    {
+      "key": "color",
+      "name": "Color",
+      "value": "Gray"
+    },
+    {
+      "key": "points",
+      "name": "Points",
+      "value": 4
+    },
+    {
+      "key": "texelDensity",
+      "name": "Texel Density",
+      "value": "0 px/m"
+    },
+    {
+      "key": "splitSubmeshes",
+      "name": "Split Submeshes",
+      "value": true
+    },
+    {
+      "key": "isScaleFixed",
+      "name": "Is scale fixed",
+      "value": "true"
+    },
+    {
+      "value": "26.36m",
+      "name": "Length",
+      "key": "length"
+    },
+    {
+      "value": "14.19m",
+      "name": "Width",
+      "key": "width"
+    },
+    {
+      "value": "4.67m",
+      "name": "Height",
+      "key": "height"
+    }
+  ],
+  "categories": [
+    "3d",
+    "nature",
+    "rock"
+  ],
+  "components": [
+    {
+      "minIntensity": 37,
+      "name": "Specular",
+      "colorSpace": "sRGB",
+      "maxIntensity": 55,
+      "type": "specular",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 220445332,
+                  "bitDepth": 16,
+                  "uri": "wd4icipcb_8K_Specular.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 31515646,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_8K_Specular.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 61579325,
+                  "bitDepth": 16,
+                  "uri": "wd4icipcb_4K_Specular.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 8281291,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_4K_Specular.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 14914027,
+                  "bitDepth": 16,
+                  "uri": "wd4icipcb_2K_Specular.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1829728,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_2K_Specular.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3574266,
+                  "bitDepth": 16,
+                  "uri": "wd4icipcb_1K_Specular.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 414907,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_1K_Specular.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#303030"
+    },
+    {
+      "minIntensity": 80,
+      "name": "Normal",
+      "colorSpace": "Linear",
+      "maxIntensity": 202,
+      "type": "normal",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 160216221,
+                  "uri": "wd4icipcb_8K_Normal_LOD0.exr",
+                  "lodType": "lod",
+                  "tris": 17887
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 93814677,
+                  "uri": "wd4icipcb_8K_Normal_LOD0.jpg",
+                  "lodType": "lod",
+                  "tris": 17887
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 199213977,
+                  "uri": "wd4icipcb_8K_Normal_LOD1.exr",
+                  "lodType": "lod",
+                  "tris": 9021
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 81551546,
+                  "uri": "wd4icipcb_8K_Normal_LOD1.jpg",
+                  "lodType": "lod",
+                  "tris": 9021
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 200457490,
+                  "uri": "wd4icipcb_8K_Normal_LOD2.exr",
+                  "lodType": "lod",
+                  "tris": 4550
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 81329990,
+                  "uri": "wd4icipcb_8K_Normal_LOD2.jpg",
+                  "lodType": "lod",
+                  "tris": 4550
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 201403855,
+                  "uri": "wd4icipcb_8K_Normal_LOD3.exr",
+                  "lodType": "lod",
+                  "tris": 2294
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 80990669,
+                  "uri": "wd4icipcb_8K_Normal_LOD3.jpg",
+                  "lodType": "lod",
+                  "tris": 2294
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 200981891,
+                  "uri": "wd4icipcb_8K_Normal_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 1158
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 80212434,
+                  "uri": "wd4icipcb_8K_Normal_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 1158
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 199059968,
+                  "uri": "wd4icipcb_8K_Normal_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 584
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 78462123,
+                  "uri": "wd4icipcb_8K_Normal_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 584
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 56041315,
+                  "uri": "wd4icipcb_4K_Normal_LOD0.exr",
+                  "lodType": "lod",
+                  "tris": 17887
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 26965116,
+                  "uri": "wd4icipcb_4K_Normal_LOD0.jpg",
+                  "lodType": "lod",
+                  "tris": 17887
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 55126183,
+                  "uri": "wd4icipcb_4K_Normal_LOD1.exr",
+                  "lodType": "lod",
+                  "tris": 9021
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 23375452,
+                  "uri": "wd4icipcb_4K_Normal_LOD1.jpg",
+                  "lodType": "lod",
+                  "tris": 9021
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 55466745,
+                  "uri": "wd4icipcb_4K_Normal_LOD2.exr",
+                  "lodType": "lod",
+                  "tris": 4550
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 23339793,
+                  "uri": "wd4icipcb_4K_Normal_LOD2.jpg",
+                  "lodType": "lod",
+                  "tris": 4550
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 55741566,
+                  "uri": "wd4icipcb_4K_Normal_LOD3.exr",
+                  "lodType": "lod",
+                  "tris": 2294
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 23238798,
+                  "uri": "wd4icipcb_4K_Normal_LOD3.jpg",
+                  "lodType": "lod",
+                  "tris": 2294
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 55661070,
+                  "uri": "wd4icipcb_4K_Normal_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 1158
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 23005559,
+                  "uri": "wd4icipcb_4K_Normal_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 1158
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 55222401,
+                  "uri": "wd4icipcb_4K_Normal_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 584
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 22497123,
+                  "uri": "wd4icipcb_4K_Normal_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 584
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 15056073,
+                  "uri": "wd4icipcb_2K_Normal_LOD0.exr",
+                  "lodType": "lod",
+                  "tris": 17887
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 7303565,
+                  "uri": "wd4icipcb_2K_Normal_LOD0.jpg",
+                  "lodType": "lod",
+                  "tris": 17887
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 14588799,
+                  "uri": "wd4icipcb_2K_Normal_LOD1.exr",
+                  "lodType": "lod",
+                  "tris": 9021
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 6278829,
+                  "uri": "wd4icipcb_2K_Normal_LOD1.jpg",
+                  "lodType": "lod",
+                  "tris": 9021
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 14694434,
+                  "uri": "wd4icipcb_2K_Normal_LOD2.exr",
+                  "lodType": "lod",
+                  "tris": 4550
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 6278815,
+                  "uri": "wd4icipcb_2K_Normal_LOD2.jpg",
+                  "lodType": "lod",
+                  "tris": 4550
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 14769167,
+                  "uri": "wd4icipcb_2K_Normal_LOD3.exr",
+                  "lodType": "lod",
+                  "tris": 2294
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 6253002,
+                  "uri": "wd4icipcb_2K_Normal_LOD3.jpg",
+                  "lodType": "lod",
+                  "tris": 2294
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 14763829,
+                  "uri": "wd4icipcb_2K_Normal_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 1158
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 6191352,
+                  "uri": "wd4icipcb_2K_Normal_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 1158
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 14667387,
+                  "uri": "wd4icipcb_2K_Normal_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 584
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 6053555,
+                  "uri": "wd4icipcb_2K_Normal_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 584
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 3993815,
+                  "uri": "wd4icipcb_1K_Normal_LOD0.exr",
+                  "lodType": "lod",
+                  "tris": 17887
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1972687,
+                  "uri": "wd4icipcb_1K_Normal_LOD0.jpg",
+                  "lodType": "lod",
+                  "tris": 17887
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 3839886,
+                  "uri": "wd4icipcb_1K_Normal_LOD1.exr",
+                  "lodType": "lod",
+                  "tris": 9021
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1699003,
+                  "uri": "wd4icipcb_1K_Normal_LOD1.jpg",
+                  "lodType": "lod",
+                  "tris": 9021
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 3868340,
+                  "uri": "wd4icipcb_1K_Normal_LOD2.exr",
+                  "lodType": "lod",
+                  "tris": 4550
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1704843,
+                  "uri": "wd4icipcb_1K_Normal_LOD2.jpg",
+                  "lodType": "lod",
+                  "tris": 4550
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 3890837,
+                  "uri": "wd4icipcb_1K_Normal_LOD3.exr",
+                  "lodType": "lod",
+                  "tris": 2294
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1701841,
+                  "uri": "wd4icipcb_1K_Normal_LOD3.jpg",
+                  "lodType": "lod",
+                  "tris": 2294
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 3893409,
+                  "uri": "wd4icipcb_1K_Normal_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 1158
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1686461,
+                  "uri": "wd4icipcb_1K_Normal_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 1158
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 3875899,
+                  "uri": "wd4icipcb_1K_Normal_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 584
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1651760,
+                  "uri": "wd4icipcb_1K_Normal_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 584
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#8283EF"
+    },
+    {
+      "minIntensity": 112,
+      "name": "Bump",
+      "colorSpace": "Linear",
+      "maxIntensity": 176,
+      "type": "bump",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 205730080,
+                  "bitDepth": 32,
+                  "uri": "wd4icipcb_8K_Bump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 24474701,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_8K_Bump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 56864658,
+                  "bitDepth": 32,
+                  "uri": "wd4icipcb_4K_Bump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 8288501,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_4K_Bump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 15756935,
+                  "bitDepth": 32,
+                  "uri": "wd4icipcb_2K_Bump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 2563035,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_2K_Bump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 4183462,
+                  "bitDepth": 32,
+                  "uri": "wd4icipcb_1K_Bump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 766029,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_1K_Bump.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#8384F6"
+    },
+    {
+      "minIntensity": 0,
+      "name": "Gloss",
+      "colorSpace": "Linear",
+      "maxIntensity": 33,
+      "type": "gloss",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 178236417,
+                  "bitDepth": 32,
+                  "uri": "wd4icipcb_8K_Gloss.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 23447296,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_8K_Gloss.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 60611391,
+                  "bitDepth": 32,
+                  "uri": "wd4icipcb_4K_Gloss.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 6328394,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_4K_Gloss.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 16395122,
+                  "bitDepth": 32,
+                  "uri": "wd4icipcb_2K_Gloss.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1616607,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_2K_Gloss.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 4195219,
+                  "bitDepth": 32,
+                  "uri": "wd4icipcb_1K_Gloss.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 451292,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_1K_Gloss.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#111111"
+    },
+    {
+      "minIntensity": 0,
+      "name": "Displacement",
+      "colorSpace": "Linear",
+      "maxIntensity": 255,
+      "type": "displacement",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 204483117,
+                  "bitDepth": 32,
+                  "uri": "wd4icipcb_8K_Displacement.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 19311545,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_8K_Displacement.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 56166647,
+                  "bitDepth": 32,
+                  "uri": "wd4icipcb_4K_Displacement.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 6343553,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_4K_Displacement.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 15593269,
+                  "bitDepth": 32,
+                  "uri": "wd4icipcb_2K_Displacement.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 2054608,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_2K_Displacement.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 4192456,
+                  "bitDepth": 32,
+                  "uri": "wd4icipcb_1K_Displacement.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 682733,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_1K_Displacement.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#7D7D7D"
+    },
+    {
+      "minIntensity": 221,
+      "name": "Roughness",
+      "colorSpace": "Linear",
+      "maxIntensity": 255,
+      "type": "roughness",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 139267214,
+                  "bitDepth": 32,
+                  "uri": "wd4icipcb_8K_Roughness.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 24327390,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_8K_Roughness.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 53209230,
+                  "bitDepth": 32,
+                  "uri": "wd4icipcb_4K_Roughness.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 6573252,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_4K_Roughness.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 14389332,
+                  "bitDepth": 32,
+                  "uri": "wd4icipcb_2K_Roughness.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1671422,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_2K_Roughness.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3883491,
+                  "bitDepth": 32,
+                  "uri": "wd4icipcb_1K_Roughness.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 463210,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_1K_Roughness.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#EEEEEE"
+    },
+    {
+      "minIntensity": 186,
+      "name": "Cavity",
+      "colorSpace": "sRGB",
+      "maxIntensity": 255,
+      "type": "cavity",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 190244218,
+                  "bitDepth": 32,
+                  "uri": "wd4icipcb_8K_Cavity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 47578160,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_8K_Cavity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 55209398,
+                  "bitDepth": 32,
+                  "uri": "wd4icipcb_4K_Cavity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 12222488,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_4K_Cavity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 14847615,
+                  "bitDepth": 32,
+                  "uri": "wd4icipcb_2K_Cavity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 2896423,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_2K_Cavity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3974183,
+                  "bitDepth": 32,
+                  "uri": "wd4icipcb_1K_Cavity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 698856,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_1K_Cavity.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#EAEAEA"
+    },
+    {
+      "minIntensity": 0,
+      "name": "Fuzz",
+      "colorSpace": "sRGB",
+      "maxIntensity": 255,
+      "type": "fuzz",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 95526454,
+                  "bitDepth": 16,
+                  "uri": "wd4icipcb_8K_Fuzz.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 11011489,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_8K_Fuzz.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 52699632,
+                  "bitDepth": 16,
+                  "uri": "wd4icipcb_4K_Fuzz.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 3979443,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_4K_Fuzz.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 14938210,
+                  "bitDepth": 16,
+                  "uri": "wd4icipcb_2K_Fuzz.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1379834,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_2K_Fuzz.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 4237368,
+                  "bitDepth": 16,
+                  "uri": "wd4icipcb_1K_Fuzz.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 479323,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_1K_Fuzz.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#242424"
+    },
+    {
+      "minIntensity": 112,
+      "name": "Normalbump",
+      "colorSpace": "Linear",
+      "maxIntensity": 176,
+      "type": "normalbump",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 191953319,
+                  "bitDepth": 16,
+                  "uri": "wd4icipcb_8K_NormalBump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 81096668,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_8K_NormalBump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 52920219,
+                  "bitDepth": 16,
+                  "uri": "wd4icipcb_4K_NormalBump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 22935025,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_4K_NormalBump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 13776669,
+                  "bitDepth": 16,
+                  "uri": "wd4icipcb_2K_NormalBump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 5900727,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_2K_NormalBump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3477204,
+                  "bitDepth": 16,
+                  "uri": "wd4icipcb_1K_NormalBump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1447709,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_1K_NormalBump.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#8384F6"
+    },
+    {
+      "minIntensity": 0,
+      "name": "Albedo",
+      "colorSpace": "sRGB",
+      "maxIntensity": 150,
+      "type": "albedo",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 230310873,
+                  "bitDepth": 16,
+                  "uri": "wd4icipcb_8K_Albedo.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 49383368,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_8K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 223720069,
+                  "uri": "wd4icipcb_8K_Albedo_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 1158
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 38998400,
+                  "uri": "wd4icipcb_8K_Albedo_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 1158
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 220954171,
+                  "uri": "wd4icipcb_8K_Albedo_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 584
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 38447379,
+                  "uri": "wd4icipcb_8K_Albedo_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 584
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 64900652,
+                  "bitDepth": 16,
+                  "uri": "wd4icipcb_4K_Albedo.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 15314534,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_4K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 63337115,
+                  "uri": "wd4icipcb_4K_Albedo_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 1158
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 14047846,
+                  "uri": "wd4icipcb_4K_Albedo_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 1158
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 62648453,
+                  "uri": "wd4icipcb_4K_Albedo_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 584
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 13795165,
+                  "uri": "wd4icipcb_4K_Albedo_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 584
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 17329346,
+                  "bitDepth": 16,
+                  "uri": "wd4icipcb_2K_Albedo.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 4275634,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_2K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 17158978,
+                  "uri": "wd4icipcb_2K_Albedo_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 1158
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 4150529,
+                  "uri": "wd4icipcb_2K_Albedo_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 1158
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 17002395,
+                  "uri": "wd4icipcb_2K_Albedo_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 584
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 4077102,
+                  "uri": "wd4icipcb_2K_Albedo_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 584
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 4591458,
+                  "bitDepth": 16,
+                  "uri": "wd4icipcb_1K_Albedo.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1179923,
+                  "bitDepth": 8,
+                  "uri": "wd4icipcb_1K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 4574126,
+                  "uri": "wd4icipcb_1K_Albedo_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 1158
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1166207,
+                  "uri": "wd4icipcb_1K_Albedo_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 1158
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 4540707,
+                  "uri": "wd4icipcb_1K_Albedo_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 584
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1148261,
+                  "uri": "wd4icipcb_1K_Albedo_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 584
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#5B5342"
+    }
+  ],
+  "references": [],
+  "referencePreviews": {
+    "models": [
+      {
+        "mimeType": "application/x-fbx",
+        "contentLength": 820080,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-abc",
+        "contentLength": 1411795,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-fbx",
+        "contentLength": 415968,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-abc",
+        "contentLength": 715535,
+        "type": "lod",
+        "uri": ""
+      }
+    ],
+    "maps": [
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 414907,
+        "type": "specular",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 1972687,
+        "type": "normal",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 1699003,
+        "type": "normal",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 766029,
+        "type": "bump",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 451292,
+        "type": "gloss",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 682733,
+        "type": "displacement",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 463210,
+        "type": "roughness",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 698856,
+        "type": "cavity",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 479323,
+        "type": "fuzz",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 1447709,
+        "type": "normalbump",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 1179923,
+        "type": "albedo",
+        "uri": ""
+      }
+    ]
+  },
+  "properties": [
+    {
+      "key": "size",
+      "value": "very large"
+    },
+    {
+      "key": "mesh type",
+      "value": "Open"
+    }
+  ],
+  "averageColor": "#5B5342",
+  "meshes": [
+    {
+      "type": "original",
+      "uris": [
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 123831264,
+          "uri": "wd4icipcb_High.fbx"
+        },
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 164112478,
+          "uri": "wd4icipcb_High.abc"
+        }
+      ]
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 820080,
+          "uri": "wd4icipcb_LOD0.fbx"
+        },
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 1411795,
+          "uri": "wd4icipcb_LOD0.abc"
+        }
+      ],
+      "tris": 17887
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 415968,
+          "uri": "wd4icipcb_LOD1.fbx"
+        },
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 715535,
+          "uri": "wd4icipcb_LOD1.abc"
+        }
+      ],
+      "tris": 9021
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 217040,
+          "uri": "wd4icipcb_LOD2.fbx"
+        },
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 363679,
+          "uri": "wd4icipcb_LOD2.abc"
+        }
+      ],
+      "tris": 4550
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 116064,
+          "uri": "wd4icipcb_LOD3.fbx"
+        },
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 185519,
+          "uri": "wd4icipcb_LOD3.abc"
+        }
+      ],
+      "tris": 2294
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 65760,
+          "uri": "wd4icipcb_LOD4.fbx"
+        },
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 95395,
+          "uri": "wd4icipcb_LOD4.abc"
+        }
+      ],
+      "tris": 1158
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 41168,
+          "uri": "wd4icipcb_LOD5.fbx"
+        },
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 49623,
+          "uri": "wd4icipcb_LOD5.abc"
+        }
+      ],
+      "tris": 584
+    },
+    {
+      "type": "zbrush",
+      "uris": [
+        {
+          "mimeType": "application/x-ztl",
+          "contentLength": 691199472,
+          "uri": "wd4icipcb_ZTool.ztl"
+        }
+      ]
+    }
+  ],
+  "assetCategories": {
+    "3D asset": {
+      "nature": {
+        "rock": {
+          "mossy": {}
+        }
+      }
+    }
+  },
+  "revision": 0,
+  "uasset": [
+    {
+      "type": "model",
+      "ueVersion": "5.0.0",
+      "tier": 0,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier0/S_Massive_Tundra_Rock_Formation_wd4icipcb_high_Var1.uasset"
+    },
+    {
+      "type": "material",
+      "ueVersion": "5.0.0",
+      "tier": 0,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier0/MI_Massive_Tundra_Rock_Formation_wd4icipcb_8K.uasset"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 0,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier0/T_MassiveTundraRockFormation_wd4icipcb_8K_DpRF.uasset",
+      "sub-type": "drf"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 0,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier0/T_Massive_Tundra_Rock_Formation_wd4icipcb_8K_D.uasset",
+      "sub-type": "albedo"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 0,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier0/T_Massive_Tundra_Rock_Formation_wd4icipcb_8K_N.uasset",
+      "sub-type": "normal"
+    },
+    {
+      "type": "meta",
+      "ueVersion": "5.0.0",
+      "tier": 0,
+      "mimeType": "json",
+      "uri": "UAsset/Tier0/wd4icipcb_0.json"
+    },
+    {
+      "type": "model",
+      "ueVersion": "5.0.0",
+      "tier": 1,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier1/S_Massive_Tundra_Rock_Formation_wd4icipcb_lod0_Var1.uasset"
+    },
+    {
+      "type": "material",
+      "ueVersion": "5.0.0",
+      "tier": 1,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier1/MI_Massive_Tundra_Rock_Formation_wd4icipcb_4K.uasset"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 1,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier1/T_MassiveTundraRockFormation_wd4icipcb_4K_DpRF.uasset",
+      "sub-type": "drf"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 1,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier1/T_Massive_Tundra_Rock_Formation_wd4icipcb_4K_D.uasset",
+      "sub-type": "albedo"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 1,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier1/T_Massive_Tundra_Rock_Formation_wd4icipcb_4K_N.uasset",
+      "sub-type": "normal"
+    },
+    {
+      "type": "meta",
+      "ueVersion": "5.0.0",
+      "tier": 1,
+      "mimeType": "json",
+      "uri": "UAsset/Tier1/wd4icipcb_1.json"
+    },
+    {
+      "type": "model",
+      "ueVersion": "5.0.0",
+      "tier": 2,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier2/S_Massive_Tundra_Rock_Formation_wd4icipcb_lod3_Var1.uasset"
+    },
+    {
+      "type": "material",
+      "ueVersion": "5.0.0",
+      "tier": 2,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier2/MI_Massive_Tundra_Rock_Formation_wd4icipcb_2K.uasset"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 2,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier2/T_MassiveTundraRockFormation_wd4icipcb_2K_DpRF.uasset",
+      "sub-type": "drf"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 2,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier2/T_Massive_Tundra_Rock_Formation_wd4icipcb_2K_D.uasset",
+      "sub-type": "albedo"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 2,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier2/T_Massive_Tundra_Rock_Formation_wd4icipcb_2K_N.uasset",
+      "sub-type": "normal"
+    },
+    {
+      "type": "meta",
+      "ueVersion": "5.0.0",
+      "tier": 2,
+      "mimeType": "json",
+      "uri": "UAsset/Tier2/wd4icipcb_2.json"
+    },
+    {
+      "type": "model",
+      "ueVersion": "5.0.0",
+      "tier": 3,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier3/S_Massive_Tundra_Rock_Formation_wd4icipcb_lod5_Var1.uasset"
+    },
+    {
+      "type": "material",
+      "ueVersion": "5.0.0",
+      "tier": 3,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier3/MI_Massive_Tundra_Rock_Formation_wd4icipcb_1K.uasset"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 3,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier3/T_MassiveTundraRockFormation_wd4icipcb_1K_DpRF.uasset",
+      "sub-type": "drf"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 3,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier3/T_Massive_Tundra_Rock_Formation_wd4icipcb_1K_D.uasset",
+      "sub-type": "albedo"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 3,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier3/T_Massive_Tundra_Rock_Formation_wd4icipcb_1K_N.uasset",
+      "sub-type": "normal"
+    },
+    {
+      "type": "meta",
+      "ueVersion": "5.0.0",
+      "tier": 3,
+      "mimeType": "json",
+      "uri": "UAsset/Tier3/wd4icipcb_3.json"
+    },
+    {
+      "type": "model",
+      "ueVersion": "5.0.0",
+      "tier": 4,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier4/S_Massive_Tundra_Rock_Formation_wd4icipcb_lod5_Var1.uasset"
+    },
+    {
+      "type": "material",
+      "ueVersion": "5.0.0",
+      "tier": 4,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier4/MI_Massive_Tundra_Rock_Formation_wd4icipcb_1K.uasset"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 4,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier4/T_Massive_Tundra_Rock_Formation_wd4icipcb_1K_D.uasset",
+      "sub-type": "albedo"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 4,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier4/T_Massive_Tundra_Rock_Formation_wd4icipcb_1K_N.uasset",
+      "sub-type": "normal"
+    },
+    {
+      "type": "meta",
+      "ueVersion": "5.0.0",
+      "tier": 4,
+      "mimeType": "json",
+      "uri": "UAsset/Tier4/wd4icipcb_4.json"
+    }
+  ],
+  "comp_version": 1,
+  "revised": false,
+  "id": "wd4icipcb",
+  "physicalSize": "1x1"
+}
